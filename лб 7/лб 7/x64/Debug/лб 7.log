@@ -1,0 +1,50 @@
+﻿  lab.c
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(16,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(30,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(120,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(226,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(265,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(297,51): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(301,30): error C2065: k: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(302,21): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(302,20): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(302,30): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(302,29): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(309,28): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(309,27): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(310,17): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(310,16): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(310,30): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(310,29): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(311,17): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(311,16): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(318,21): error C2065: k: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(320,28): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(320,27): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(321,17): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(321,16): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(321,30): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(321,29): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(322,17): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(322,16): error C2109: для индекса требуется массив или указатель
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(329,47): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(330,23): error C2065: k: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(332,32): error C2065: arr: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(332,29): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(332,29): warning C4024: pancakeSortStep: различные типы для формального и фактического параметров 1
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(332,35): error C2065: n: необъявленный идентификатор
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(340,17): error C2057: требуется константное выражение
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(340,18): error C2466: невозможно выделить память для массива постоянного нулевого размера
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(340,20): error C2057: требуется константное выражение
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(340,21): error C2466: невозможно выделить память для массива постоянного нулевого размера
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(340,13): error C2087: arr: отсутствует индекс
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(340,13): error C2133: arr: неизвестный размер
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(338,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(345,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\lab.c(371,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\main.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Desktop\лр прог 7\лб 7\лб 7\main.c(5,9): warning C4101: task: неиспользованная локальная переменная
+  Создание кода...
